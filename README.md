@@ -2,8 +2,16 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 Test Technique de Dealt
 
-## Getting Started
+## Installation
 Il faut le fichier de configuration .env.local et le mettre dans la racine du projet.
+
+Pour Intaller le serveur faire la commande:
+
+```bash
+npm install
+```
+
+## Lancement
 
 Pour lancer le serveur faire la commande:
 
